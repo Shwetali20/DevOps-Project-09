@@ -2,9 +2,8 @@
 
 ![devsecops](https://imgur.com/vORuBnK.png)
 
-# Project Blog link :-
 
-- <https://harshhaa.hashnode.dev/devsecops-netflix-clone-ci-cd-with-monitoring-email>
+
 
 # Project Overview :-
 
